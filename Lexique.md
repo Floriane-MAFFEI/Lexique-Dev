@@ -1,7 +1,9 @@
 # Tableau du lexique de Developpeur web
 
 ---
-## ARCHITECTURE
+
+<h2 align="center">ARCHITECTURE</h2>
+
 ---
 
 ### Design pattern
@@ -10,6 +12,8 @@
 
 **Avantages** : Accélérer le processus de développement, gagner du temps, facilite la lisibilité du code.
 = Se base sur des pratiques antérieures et sur les leçons apprises.
+
+---
 
 ### MVC
 
@@ -22,6 +26,7 @@ Modèle-Vue-Contrôleur : nom d'une méthodologie visant à faire le lien entre 
 *Vue* => représente les éléments de l'interface utilisateur (partie visuelle).
 *Contrôleur* => Représente les classes qui se connectent au Modèle et à la Vue, sert de communication entre les classes dans le modèle et la vue.
 
+---
 
 ### Architecture
 
@@ -39,7 +44,9 @@ Cela comprend :
 L'architecture peut aussi faire référence à l'infrastructure technique (serveur, BDD, Langages, etc). |
 
 ---
-## BACK
+
+<h2 align="center">BACK</h2>
+
 ---
 
 ### API 
