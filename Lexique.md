@@ -41,7 +41,9 @@ Cela comprend :
 
 **IMPORTANT** : Cela peut avoir un impact sur les performances, la sécurité, la maintenance et l'évolutivité...
 
-L'architecture peut aussi faire référence à l'infrastructure technique (serveur, BDD, Langages, etc). |
+L'architecture peut aussi faire référence à l'infrastructure technique (serveur, BDD, Langages, etc). 
+
+Source : [Leptidigital](https://www.leptidigital.fr/definition/architecture-web-40737/#:~:text=L'architecture%20web%20est%20la,application%20ou%20du%20site%20web.)
 
 ---
 
@@ -92,6 +94,8 @@ Ensemble de contraintes architecturales. Approche la plus populaire pour constru
 
 **Différence** : SOAP
 
+Source : [RedHat](https://www.redhat.com/fr/topics/api/what-is-a-rest-api)
+
 ---
 
 ### CRUD
@@ -106,3 +110,18 @@ Parfois appelé SCRUD => S pour Search
 
 **HTTP** => GET et POST (create), GET (read), PUT et PATCH (update), DELETE (delete)
 
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/CRUD)
+
+---
+
+### ORM
+
+*Object-relational mapping* ou *mapping objet-relationnel*
+
+Ensemble de classes permettant de manipuler les tables d'une base de donnéees relationnelle comme s'il s'agissait d'objet.
+
+Donne l'illusion de ne plus travailler avec des requêtes mais avec des manipulations d'objets.
+
+![ORM Schéma](https://res.cloudinary.com/practicaldev/image/fetch/s--QPH4sf2X--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/divzbwhf4hgov8ho911v.png)
+
+Sources : [Linkedin](https://www.linkedin.com/posts/honorablecon_sundayword-activity-6878386656462823424-5jGs/?utm_source=linkedin_share&utm_medium=member_desktop_web)
