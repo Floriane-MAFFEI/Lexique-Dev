@@ -89,5 +89,6 @@ Ensemble de contraintes architecturales. Approche la plus populaire pour constru
  - Possible d'envoyer du code exécutable du serveur vers le client (si demande) afin d'étendre les fonctionnalités.
 
 **Avantages** : rapide, légère et évolutive. 
+
 **Différence** : SOAP 
 
