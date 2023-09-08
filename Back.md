@@ -84,3 +84,65 @@ Donne l'illusion de ne plus travailler avec des requêtes mais avec des manipula
 </div>
 
 Sources : [Linkedin](https://www.linkedin.com/posts/honorablecon_sundayword-activity-6878386656462823424-5jGs/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+---
+
+### Doctrine
+
+Il s'agit d'un ORM. 
+
+Par défaut il est l'ORM du framework Symfony.
+
+Permet de représenter les données de leur base de données relationnelle (comme MySQL, PostgreSQL, etc.) sous forme d'objets PHP.
+
+Doctrine se charge de la conversion entre ces objets et les données stockées dans la base de données.
+
+Se compose en deux parties :
+
+- Doctrine [ORM](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Back.md#ORM)
+- Doctrine [DBAL](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Back.md#DBAL)
+  - s'appuie sur  [PDO](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Back.md#PDO)
+
+**Avantages** : 
+
+- Facilite le developpement
+- Code plus lisible
+- Code plus maintenable
+- Code plus portable
+
+--- 
+
+### PDO
+
+*PHP Data Object*
+
+Interface objet permettant d'accéder à une base de donnée en PHP. 
+Elève le niveau de sécurité (requête préparée par exemple).
+
+Agit comme une couche d'abstraction de base de données pour les applications web PHP. Elle fournit une interface uniforme pour interagir avec différentes bases de données (comme MySQL, PostgreSQL, SQLite, etc.) sans avoir à écrire du code spécifique à chaque système de gestion de base de données.
+
+**Avantages** :
+
+- Exécution des opérations sur la BDD, Récupération des données et Gestion des erreurs => plus efficace et plus sécurisé
+- Code plus portable
+- Amélioration de la sécurité (requêtes préparées => evite les injections SQL)
+
+---
+
+### DBAL
+
+*Database Abstraction Layer*
+
+Se positionne au-dessus de PDO.
+
+Intermédiaire entre l'application web et la base de données sous-jacente, facilitant ainsi la communication et la manipulation des données.
+
+Permet de travailler avec différentes bases de données (comme MySQL, PostgreSQL, SQLite, etc.) sans avoir à se soucier des détails spécifiques de chaque système.
+
+Peut être utilisé indépendamment du Doctrine ORM.
+
+**Avantages** : 
+- Code plus portable
+- réduit les dépendances à une BDD 
+  - Projet plus flexible
+  - Plus facile à maintenir
