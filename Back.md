@@ -77,6 +77,10 @@ Ensemble de classes permettant de manipuler les tables d'une base de donnéees r
 
 Donne l'illusion de ne plus travailler avec des requêtes mais avec des manipulations d'objets.
 
-![ORM Schéma](https://res.cloudinary.com/practicaldev/image/fetch/s--QPH4sf2X--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/divzbwhf4hgov8ho911v.png)
+<div style="background-color : white;">
+
+  ![ORM Schéma](https://res.cloudinary.com/practicaldev/image/fetch/s--QPH4sf2X--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/divzbwhf4hgov8ho911v.png)
+
+</div>
 
 Sources : [Linkedin](https://www.linkedin.com/posts/honorablecon_sundayword-activity-6878386656462823424-5jGs/?utm_source=linkedin_share&utm_medium=member_desktop_web)
