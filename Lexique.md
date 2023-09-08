@@ -90,5 +90,19 @@ Ensemble de contraintes architecturales. Approche la plus populaire pour constru
 
 **Avantages** : rapide, légère et évolutive. 
 
-**Différence** : SOAP 
+**Différence** : SOAP
+
+---
+
+### CRUD
+
+*Create, Read, Update, Delete*
+
+Moyen mnémotechnique pour les quatre fonctions de base de la gestion sur des données stockées.
+
+Parfois appelé SCRUD => S pour Search
+
+**SQL** => INSERT (create), SELECT(read), UPDATE (update), DELETE (delete)
+
+**HTTP** => GET et POST (create), GET (read), PUT et PATCH (update), DELETE (delete)
 
