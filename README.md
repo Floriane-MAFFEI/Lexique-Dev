@@ -5,4 +5,4 @@
 - [Base de donnée (BDD)](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/BDD.md)
 - [Bonnes pratiques](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Bonnes-Pratiques.md)
   - [Les tests](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Bonnes-Pratiques.md#Les-tests)
-- [Connaissances de base](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Connaissances-de-base.md)
+- [Connaissances de base](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Connaissance-de-base.md)
