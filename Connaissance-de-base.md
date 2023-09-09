@@ -57,28 +57,6 @@ Source : [Techno-science](https://www.techno-science.net/definition/11021.html)
 
 ---
 
-### IDE
-
-*Integrated development environment* ou *Environnement de développement intégré*
-
-Logiciel de création d'applications qui rassemble des outils de développement sous une seule interface utilisateur graphique (GUI).
-
-Généralement cela comprend:
-
-- **Un éditeur de code source** => aide à la rédaction du code logiciel via de la coloration syntaxique, des repères visuels, de la saisie automatique (variant selon le language) et la vérification de bogues pendant la rédaction.
-
-- **Utilitaire d'automatisation de version** => utilitaires qui permet d'automatiser des tâches simple et réproductible lors d'une création d'une version à destination du développeur lui même. *Par exemple* : compilation code source en code binaire, mise en paquet du code binaire et exécution de tests automatisés.
-
-- **Débogueur** => programme permettant de tester d'autres programmes en affichant l'emplacement des bogues dans le code d'origine.
-
-**Avantages** : 
-- Tous les outils au même endroit.
-- Gain de temps
-- Résolution des problèmes améliorée => Identification des bogues en temps réel
-- Aide à la rédaction
-
-Source : [Red-hat](https://www.redhat.com/fr/topics/middleware/what-is-ide)
-
 ---
 
 ### CMS
