@@ -54,3 +54,22 @@ Partie qui prend en charge l'interface d'une application.
 **En image** : Correspond à un magasin fréquenté par les clients
 
 Source : [Techno-science](https://www.techno-science.net/definition/11021.html)
+
+---
+
+---
+
+### CMS
+
+*Content Mangement System* ou *Système de gestion de contenu*
+
+Logiciel en ligne donnant la possibilité de créer, gérer et/ou modifier un site web sans avoir besoin de connaissance technique et en seulement quelques clics.
+
+Il existe des : 
+
+- **CMS custom** => créer sur mesure (*Avantages* : Uniquement constitué des modules utiles, plus simple)
+- **CMS Open Source** => Accessible gratuitement pour la plupart.
+
+**CMS Populaire** : Wordpress, Joomla, Shopify, Drupal
+
+Source : [pure-illusion](https://www.pure-illusion.com/lexique/definition-de-cms)
