@@ -78,6 +78,8 @@ Source : [pure-illusion](https://www.pure-illusion.com/lexique/definition-de-cms
 
 ### Frameworks
 
+*=> ils disent aux développeurs quoi faire*
+
 *Frame* = cadre
 *Work* = travail
 
@@ -87,12 +89,53 @@ Contient des composants autonomes qui permettent de faciliter le développement 
 
 Résout souvent les problèmes rencontrés par les développeur (CRUD, Arborescence, normes, sécurité...)
 
+Plus utilisé pour de gros projets.
+
 **Avantages** : 
 
-- Gain de temps
-- Flexibilité
-- Architecture  propre et fonctionnel
-- Productivité amélioré
-- Appui de la communauté
+- Rend le développement plus rapide
+- Facilite le déboggage
+- Augmente la réutilisabilité du code 
+- Adapté pour le travail en équipe ;
+- Vient avec un ensemble de fonctionnalités (sécurité, cache, authentification, ORM, etc.).
 
-**Exemple de frameworks** : React JS, Angular, Symfony, Laravel, Django, Vue.JS, Semantic UI, Flutter
+**Inconvénients** : 
+
+- On a une dépendance vis à vis des développeurs du frameworks (bugs, problèmes de compatibilité, failles, etc.)
+- Peu flexible comparé à une bibliothèque
+- Effet “usine à gaz” pour les petits projets
+- On doit bien le choisir, pas de retour en arrière facile
+- On doit faire de la veille et mettre à jour son code pour rester dans les versions à jour.
+
+**Exemple de frameworks** : Angular, Symfony, Laravel, Django, Vue.JS, Semantic UI, Flutter, Ruby on Rails
+
+Source : [FreelanceRepublik](https://talks.freelancerepublik.com/framework-bibliotheque-differences/#:~:text=Une%20librairie%20est%20plus%20flexible,'un%20(gros)%20projet.)
+
+---
+
+### Librairies (bibliothèque) 
+
+*=> le dévéloppeur lui dit quoi faire*
+
+Collection de routine (méthodes) pouvant être appelés par le code d'un développeur pour éxécuter des actions spécifiques.
+
+Utilisé pour des petits projets ou éléments (formulaire, data picker...)
+
+**Différences avec Frameworks** : Un Framework est composé de plusieurs bibliothèque.
+
+**Avantages** : 
+
+- Rend le développement plus rapide
+- Permet d’écrire moins de code 
+- Flexible au niveau de l’utilisation – elle ne cadre pas le développement tout entier comme un framework 
+- Il est facile de créer soi-même une librairie.
+
+**Inconvénients** :
+
+- Risques d’incompatibilité entre différentes librairies, ou entre une librairie et la version d’un framework, etc. 
+- Certaines librairies peuvent avoir des failles de sécurité 
+- Empiler bibliothèque sur bibliothèque peut complexifier un projet.
+
+**Exemple de libraires** : React JS, jQuery, Bootstrap, Tailwind
+
+Source : [FreelanceRepublik](https://talks.freelancerepublik.com/framework-bibliotheque-differences/#:~:text=Une%20librairie%20est%20plus%20flexible,'un%20(gros)%20projet.)
