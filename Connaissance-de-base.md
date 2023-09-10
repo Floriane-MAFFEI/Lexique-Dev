@@ -149,3 +149,16 @@ Cela fait référence aux bibliothèques, aux frameworks ou aux modules de code 
 
 Ces éléments externes sont "dépendants" car le projet ne peut pas fonctionner sans eux.
 
+---
+
+### Token
+
+*token Access* ou *jetons individuels*
+
+Mécanisme fréquemment intégré au procédures d'authentification.
+
+Le token permet une connexion sécurisée.
+
+![Token function](https://www.okta.com/sites/default/files/styles/tinypng/public/media/image/2020-12/TokenBasedAuthentication.png?itok=zXMogDjG)
+
+Source : [CNIL](https://www.cnil.fr/fr/les-jetons-individuels-de-connexion-ou-token-access)
