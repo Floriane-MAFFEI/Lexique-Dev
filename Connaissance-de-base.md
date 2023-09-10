@@ -139,3 +139,13 @@ Utilisé pour des petits projets ou éléments (formulaire, data picker...)
 **Exemple de libraires** : React JS, jQuery, Bootstrap, Tailwind
 
 Source : [FreelanceRepublik](https://talks.freelancerepublik.com/framework-bibliotheque-differences/#:~:text=Une%20librairie%20est%20plus%20flexible,'un%20(gros)%20projet.)
+
+
+--- 
+
+### Dépendance
+
+Cela fait référence aux bibliothèques, aux frameworks ou aux modules de code tiers qu'un projet web utilise pour fonctionner.
+
+Ces éléments externes sont "dépendants" car le projet ne peut pas fonctionner sans eux.
+
