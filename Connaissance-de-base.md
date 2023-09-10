@@ -73,3 +73,26 @@ Il existe des :
 **CMS Populaire** : Wordpress, Joomla, Shopify, Drupal
 
 Source : [pure-illusion](https://www.pure-illusion.com/lexique/definition-de-cms)
+
+---
+
+### Frameworks
+
+*Frame* = cadre
+*Work* = travail
+
+Boite à outils pour développeur web.
+
+Contient des composants autonomes qui permettent de faciliter le développement d’un site web ou d’une application.
+
+Résout souvent les problèmes rencontrés par les développeur (CRUD, Arborescence, normes, sécurité...)
+
+**Avantages** : 
+
+- Gain de temps
+- Flexibilité
+- Architecture  propre et fonctionnel
+- Productivité amélioré
+- Appui de la communauté
+
+**Exemple de frameworks** : React JS, Angular, Symfony, Laravel, Django, Vue.JS, Semantic UI, Flutter
