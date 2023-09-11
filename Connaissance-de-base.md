@@ -180,3 +180,34 @@ Attends les requêtes des clients et y réponds.
 ![Client-Serveur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mod%C3%A8le-client-serveur.svg/1024px-Mod%C3%A8le-client-serveur.svg.png)
 
 Source : [Wikipedia](https://fr.wikipedia.org/wiki/Client-serveur)
+
+
+---
+
+### Chemin Relatif
+
+```dossier\page.html```
+
+La cible (page.html) va être cherchée par le navigateur à partir de la page html ou de la feuille de style qu'il interprète, dans le sous-répertoire "dossier".
+
+```./dossier/page.html```
+./ => signifie que la page est cherchée à partir du répertoire courant.
+
+````../dossier/page.html```
+
+../ => signifie que la page est cherchée à partir du répertoire parent (on remonte d'un niveau).
+
+
+**Important** : En PHP, si on utilise la fonction ```include()``` => le chemin relatif part du fichier dans lequel est placé son contenu (fichier éxécuté par le serveur). En PHP, pour obtenir la racine du serveur web il faut tuilisez => ```$_SERVER['DOCUMENT_ROOT']```
+
+**Exemple** => ```include('/inc/menu.php');``` équivaudrait à ```C:>inc\menu.php``` et non pas à ```http://www.domaine.fr/inc/menu.php``` qui n'est au fond qu'une vue "virtuelle" du répertoire qui héberge le site, et qui peut être placée n'importe où dans l'arborescence du système de stockage.
+
+Source : [Alsacreations](https://www.alsacreations.com/astuce/lire/78-quelle-est-la-diffrence-entre-les-chemins-relatifs-et-absolus.html)
+
+---
+
+### Chemin absolu
+
+```\dossier\page.html```
+
+Le slash intial précise que l'on ne se réfère plus à l'emplacement courant mais que l'on remonte à la racine puis on précise ensuite le chemin complet.
