@@ -227,3 +227,22 @@ Peut alors être exécutée ultérieurement, souvent en réponse à un événeme
 
 Source : [Mdn](https://developer.mozilla.org/fr/docs/Glossary/Callback_function)
 
+---
+
+### JSON
+
+*JavaScript Object Notation*
+
+**Extension** : .json
+
+Format de donnée textuel utilisé pour stocker et échanger des informations.
+
+Il est basé sur une structure d'objets et de tableaux, et il est couramment utilisé pour transmettre des données entre un serveur et un client web, ainsi que pour configurer des applications web.
+
+**Avantages** : 
+- Facile à lire et à écrire
+- Facile à analyser
+- et Facile à générer pour les machines
+  
+**Concurrent** : XML
+
