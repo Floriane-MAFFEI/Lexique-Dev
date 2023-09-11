@@ -211,3 +211,19 @@ Source : [Alsacreations](https://www.alsacreations.com/astuce/lire/78-quelle-est
 ```\dossier\page.html```
 
 Le slash intial précise que l'on ne se réfère plus à l'emplacement courant mais que l'on remonte à la racine puis on précise ensuite le chemin complet.
+
+---
+
+### Callback
+
+*Fonction de rappel*
+
+Fonction passée dans une autre fonction en tant qu'argument.
+Peut alors être exécutée ultérieurement, souvent en réponse à un événement spécifique, comme le chargement d'une page web ou la fin d'une opération asynchrone.
+
+**Utilisations** : gére des tâches telles que la manipulation de données après leur chargement depuis un serveur ou la réaction à des actions de l'utilisateur sur une page web.
+
+**Avantages** :  permet un traitement non bloquant et réactif dans le développement web.
+
+Source : [Mdn](https://developer.mozilla.org/fr/docs/Glossary/Callback_function)
+
