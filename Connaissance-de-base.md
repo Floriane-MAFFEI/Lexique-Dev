@@ -162,3 +162,21 @@ Le token permet une connexion sécurisée.
 ![Token function](https://www.okta.com/sites/default/files/styles/tinypng/public/media/image/2020-12/TokenBasedAuthentication.png?itok=zXMogDjG)
 
 Source : [CNIL](https://www.cnil.fr/fr/les-jetons-individuels-de-connexion-ou-token-access)
+
+---
+
+### Client
+
+Ordinateur ou application qui envoie des requêtes à un serveur.
+
+---
+
+### Serveur
+
+Attends les requêtes des clients et y réponds.
+
+=> Offre un service au client
+
+![Client-Serveur](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mod%C3%A8le-client-serveur.svg/1024px-Mod%C3%A8le-client-serveur.svg.png)
+
+Source : [Wikipedia](https://fr.wikipedia.org/wiki/Client-serveur)
