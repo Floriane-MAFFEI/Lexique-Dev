@@ -264,3 +264,25 @@ Peuvent être appelées (exécutées) à partir d'autres parties du code chaque 
 - Plus facile à organiser
 - Evite les répétitions de code similaire
 - Favorise la réutilisation du code
+
+---
+
+### Méthode
+
+Fonction qui est associée à un objet ou à une classe.
+
+Définit :
+- les actions
+- les opérations spécifiques que l'objet ou la classe peut effectuer
+
+Elles sont appellé sur l'objet ou la classe pour déclencher l'action ou l'opération.
+
+Existe : 
+- *méthode d'instance* => représente les fonctions fournissant une interface pour effectuer des actions dans le contexte de l'objet qu'elles composent => agit que sur un objet à la fois
+- *méthode statique* => représente les focntions pouvant être exécutée sans nécessiter d'instanciation
+
+**Exemple de méthode** : constructeur, destructeur, getter, setter
+
+**Portée des méthodes** : private, protected, public
+
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/M%C3%A9thode_(informatique))
