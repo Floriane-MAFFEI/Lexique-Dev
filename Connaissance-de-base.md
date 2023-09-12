@@ -246,3 +246,21 @@ Il est basé sur une structure d'objets et de tableaux, et il est couramment uti
   
 **Concurrent** : XML
 
+---
+
+### Fonction
+
+Bloc de code réutilisable qui effectue une tâche spécifique.
+
+Elles accomplissent des actions ou des calculs.
+
+Une fonction prend entre 0 et plusieurs paramètres et renvoie (return) toujours un résultat.
+
+Peuvent être appelées (exécutées) à partir d'autres parties du code chaque fois qu'elle doit être exécutée.
+
+**Avantages** : 
+- Code plus modulaire
+- Plus facile à maintenir
+- Plus facile à organiser
+- Evite les répétitions de code similaire
+- Favorise la réutilisation du code
