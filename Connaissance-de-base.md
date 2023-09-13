@@ -377,3 +377,11 @@ Endroit où cette variable peut être utilisée et accédée dans le code.
 
 **Information** : Pour accéder à une variable global dans un environnement local on peut toujours utilisé ```global```
 -  **Attention** : si on modifie la valeur de ces variables dans notre fonction, la valeur des variables globales sera également modifiée
+
+---
+
+### Itération
+
+Répétition d'un bloc d'instructions
+
+**Information** : le boucle *while* ou *for* sont considérés comme des itérations.
