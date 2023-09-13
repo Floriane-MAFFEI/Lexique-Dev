@@ -360,3 +360,20 @@ Simplifie l'utilisation et la compréhension des éléments web, en cachant la c
 **Exemple** : un formulaire web peut être une abstraction qui permet aux utilisateurs de saisir des données sans avoir à se soucier de la manière dont ces données sont traitées en coulisses.
 
 **Avantage** : facilite la gestion et la maintenance des systèmes web en réduisant la complexité apparente
+
+--- 
+
+### Scope/Portée
+
+Endroit où cette variable peut être utilisée et accédée dans le code.
+
+**Deux portées** :
+- *local* => limité à une fonction ou un bloc de code spécifique
+- *global* => accessible depuis n'importe où dans le code sauf dans les espaces locaux d’un script
+
+**But** : 
+- éviter les conflits de noms de variables
+- garantir que les variables sont utilisées de manière appropriée dans un programme web
+
+**Information** : Pour accéder à une variable global dans un environnement local on peut toujours utilisé ```global```
+-  **Attention** : si on modifie la valeur de ces variables dans notre fonction, la valeur des variables globales sera également modifiée
