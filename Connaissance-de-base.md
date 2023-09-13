@@ -348,3 +348,15 @@ Procédure permettant d'effectuer un traitement après un event.
 ### Hook
 
 Représente une actioon que l'on vient intercaler dans un traitement déjà défini pour faire un traitement "custom".
+
+---
+
+### Abstration
+
+Concept de masquer les détails complexes ou techniques d'une fonction ou d'un composant, tout en fournissant une interface simple et conviviale.
+
+Simplifie l'utilisation et la compréhension des éléments web, en cachant la complexité sous-jacente
+
+**Exemple** : un formulaire web peut être une abstraction qui permet aux utilisateurs de saisir des données sans avoir à se soucier de la manière dont ces données sont traitées en coulisses.
+
+**Avantage** : facilite la gestion et la maintenance des systèmes web en réduisant la complexité apparente
