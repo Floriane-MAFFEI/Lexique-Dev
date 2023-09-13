@@ -286,3 +286,21 @@ Existe :
 **Portée des méthodes** : private, protected, public
 
 Source : [Wikipédia](https://fr.wikipedia.org/wiki/M%C3%A9thode_(informatique))
+
+---
+
+### Variable
+
+Eléments qui associent un nom (l'identifiant) à une valeur, qui sera implantée dans la mémoire du système programmé.
+
+La variable peut prendre différentes valeurs au cours de l'exécution du programme.
+
+Doit obligatoirement être déclarée.
+
+Possible de lui assigner une valeur au moment de la déclaration.
+
+**En JS** : elle se déclare via *let nomVariable* => permet de changer la valeur, *const nomVariable* => la valeur de la variable ne peux pas changer.
+
+**En PHP** : elle se déclare en faisant $nom_variable
+
+---
