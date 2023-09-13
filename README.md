@@ -6,3 +6,4 @@
 - [Bonnes pratiques](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Bonnes-Pratiques.md)
   - [Les tests](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Bonnes-Pratiques.md#Les-tests)
 - [Connaissances de base](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Connaissance-de-base.md)
+- [Front](https://github.com/Floriane-MAFFEI/Lexique-Dev/blob/master/Front.md)
