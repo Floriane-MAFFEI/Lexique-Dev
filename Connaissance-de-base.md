@@ -314,3 +314,15 @@ Elément de description d'un objet.
 **Egalement** : Contrôler l'accès aux champs (public, private)
 
 **Important** : la valeur d'une propriété private ne pourra être modifier que via un *setter* et ces valeurs pourront être lu via un *getter* 
+
+---
+
+### Setter
+
+Méthode qui permet de modifier la valeur d'une propriété private d'une classe.
+
+---
+
+### Getter
+
+Méthode qui permet de lire la valeur d'une propriété private d'une classe.
