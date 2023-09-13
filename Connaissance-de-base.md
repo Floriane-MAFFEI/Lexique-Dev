@@ -313,7 +313,17 @@ Elément de description d'un objet.
 
 **Egalement** : Contrôler l'accès aux champs (public, private)
 
-**Important** : la valeur d'une propriété private ne pourra être modifier que via un *setter* et ces valeurs pourront être lu via un *getter* 
+**Important** : la valeur d'une propriété private ne pourra être modifier que via un [*setter*](#setter) et ces valeurs pourront être lu via un [*getter*](#getter) 
+
+---
+
+### Constante
+
+Element de donnée associé à une valeur fixe
+
+Syntaxiquement, elle ressemble à une variable
+
+**Important** : On ne peut jamais modifier sa valeur et celle-ci doit donc être précisée lors de la définition de l'objet.
 
 ---
 
