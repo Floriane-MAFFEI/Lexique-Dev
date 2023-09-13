@@ -385,3 +385,14 @@ Endroit où cette variable peut être utilisée et accédée dans le code.
 Répétition d'un bloc d'instructions
 
 **Information** : le boucle *while* ou *for* sont considérés comme des itérations.
+
+---
+
+### Affectation
+
+Action de donner une valeur à une variable.
+
+Concept fondamental dans la programmation web pour stocker et manipuler des données
+
+**Exemple en PHP** : ```$variable = "valeur";```
+**Exemple en JS** : ``` let variable = "valeur";```
