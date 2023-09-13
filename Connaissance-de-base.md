@@ -396,3 +396,22 @@ Concept fondamental dans la programmation web pour stocker et manipuler des donn
 
 **Exemple en PHP** : ```$variable = "valeur";```
 **Exemple en JS** : ``` let variable = "valeur";```
+
+---
+
+### Snippet
+
+*Extrait* en français
+
+Partie d'un code (ou texte) pouvant être copier-coller afin d'être réutilisé.
+
+---
+
+### Bracket
+
+Référence à une paire de caractères spéciaux ("[", "]", "(", ")") utilisé pour délimité les listes, tableaux et élements de syntaxe.
+
+**[ ] servent :** 
+- encadrer les éléments à l'intérieur d'un tableau
+- accéder aux éléments d'un tableau par leur indice
+- définir des conditions dans certaines expressions de contrôle de flux.
