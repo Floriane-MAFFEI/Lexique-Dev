@@ -304,3 +304,13 @@ Possible de lui assigner une valeur au moment de la déclaration.
 **En PHP** : elle se déclare en faisant $nom_variable
 
 ---
+
+### Propriété
+
+Elément de description d'un objet.
+
+**Usage courant** : Rajouter des instructions appliquée systématiquement au moment de la modification ou de la lecture d'une instance d'une classe sans modification de cette classe.
+
+**Egalement** : Contrôler l'accès aux champs (public, private)
+
+**Important** : la valeur d'une propriété private ne pourra être modifier que via un *setter* et ces valeurs pourront être lu via un *getter* 
