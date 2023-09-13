@@ -336,3 +336,15 @@ Méthode qui permet de modifier la valeur d'une propriété private d'une classe
 ### Getter
 
 Méthode qui permet de lire la valeur d'une propriété private d'une classe.
+
+---
+
+### Handler
+
+Procédure permettant d'effectuer un traitement après un event.
+
+---
+
+### Hook
+
+Représente une actioon que l'on vient intercaler dans un traitement déjà défini pour faire un traitement "custom".
